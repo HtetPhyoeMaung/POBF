@@ -2,7 +2,7 @@ package com.venzee.dbthinking.controller;
 
 import com.venzee.dbthinking.dto.request.RegisterRequest;
 import com.venzee.dbthinking.dto.response.ApiResponse;
-import com.venzee.dbthinking.service.Impl.AuthService;
+import com.venzee.dbthinking.service.impl.AuthService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

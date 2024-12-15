@@ -1,4 +1,4 @@
-package com.venzee.dbthinking.service.Impl;
+package com.venzee.dbthinking.service.impl;
 
 import com.venzee.dbthinking.dto.request.RegisterRequest;
 import com.venzee.dbthinking.dto.response.ApiResponse;
